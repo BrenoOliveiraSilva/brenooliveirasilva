@@ -23,6 +23,11 @@ Atualmente atuo em planejamento estratégico em ambiente hospitalar, o que forta
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Projeto em destaque
